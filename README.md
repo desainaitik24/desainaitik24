@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.shopify.com/s/files/1/0070/5901/3716/files/coding_background.jpg?v=1688538955)
+![MasterHead](https://camo.githubusercontent.com/20b19687c78408d903e9481426fb767e97f63320dc2c9a3d5259b8b97eda0269/68747470733a2f2f67617065722e696f2f77702d636f6e74656e742f75706c6f6164732f323032322f30322f6d65726e2d737461636b2e77656270)
 
 <h1 align="center">Hi 👋, I'm Naitik Desai</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
