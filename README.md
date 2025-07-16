@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Naitik Desai</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1aXN2bkuLC6tg-RBo_tden&ust=1752729301509000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKimk8_TwI4DFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1aXN2bkuLC6tg-RBo_tden&ust=1752729301509000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKimk8_TwI4DFQAAAAAdAAAAABAE](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 - 🌱 I’m currently learning **AI/ML**
 
