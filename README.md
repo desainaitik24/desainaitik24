@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/002/214/642/non_2x/web-designer-and-programmer-free-vector.jpg)
+![MasterHead](https://cdn.shopify.com/s/files/1/0070/5901/3716/files/coding_background.jpg?v=1688538955)
 
 <h1 align="center">Hi 👋, I'm Naitik Desai</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
